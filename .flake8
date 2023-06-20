@@ -1,0 +1,5 @@
+[flake8]
+ignore = E402,E203,W503
+exclude = .tox,.git,docs,*/tests,migrations/*
+max-complexity = 19
+max-line-length = 120
